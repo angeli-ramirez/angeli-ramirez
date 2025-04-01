@@ -69,7 +69,7 @@ I'm a developer who believes in the magic of transforming data into stories. My 
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>No-Code & CMS</b></summary>
 <br>
 <p align="left">
